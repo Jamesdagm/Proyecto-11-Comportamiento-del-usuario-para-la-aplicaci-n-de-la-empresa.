@@ -1,0 +1,2 @@
+# Proyecto-11-Comportamiento-del-usuario-para-la-aplicaci-n-de-la-empresa.
+Se trabajó en una empresa emergente que vende productos alimenticios, con el objetivo de investigar el comportamiento del usuario en la aplicación de la empresa. Se realizaron dos análisis principales: el análisis del embudo de ventas y los resultados de un test A/A/B para evaluar el impacto de un cambio de fuentes en la aplicación.
